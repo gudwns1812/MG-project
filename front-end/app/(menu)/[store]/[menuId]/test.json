@@ -1,0 +1,33 @@
+{
+  "itemName": "string",
+  "itemPictureUrl": "string",
+  "itemMenuDetail": "string",
+  "itemPrice": 0,
+  "itemMakeTime": 0,
+  "itemSoldout": true,
+  "detail": {
+    "detailKcal": 0,
+    "detailNa": 0,
+    "detailGain": 0,
+    "detailSugar": 0,
+    "detailSatfat": 0,
+    "detailTransfat": 0,
+    "detailProtein": 0,
+    "detailCaffeine": 0
+  },
+  "optionCategories": [
+    {
+      "categoryName": "string",
+      "categoryDescription": "string",
+      "categoryOrder": 0,
+      "options": [
+        {
+          "optionName": "string",
+          "optionPrice": 0,
+          "optionOrder": 0,
+          "optionAvailable": true
+        }
+      ]
+    }
+  ]
+}
